@@ -1,2 +1,1 @@
-#If you find any trouble running my other programs just type "python [program name].py --help" but I didn't write any code for help in many of my programs but I guess if you know what you are running then you know all the stuff already.
-#Point to be noted: Some of the codes are written in python 3 while others are written in python 2. So whenever you try executing any code fro terminal type "python [program name].py", if this fails try "python3 [program name].py"
+
